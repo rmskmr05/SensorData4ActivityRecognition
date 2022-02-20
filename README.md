@@ -1,2 +1,2 @@
 # SensorData4ActivityRecognition
-Collects data from multiple ADXL345 accelerometer (SPI based) data and transmit it to ML Model via UART
+Collects data from multiple ADXL345 accelerometers (SPI based) and transmit it to PC for ML Model.
